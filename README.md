@@ -4,8 +4,8 @@
   root((JavaScript Ecosystem For Me ))
     architecture
       programming
-        `[client](/develop/programming/client.md)`
-        `[server](/develop/programming/server.md)`
+        <a href='/develop/programming/client.md'>client</a>
+        <a href='/develop/programming/server.md'>server</a>
     develop
     Ops
 ```
