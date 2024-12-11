@@ -1,7 +1,15 @@
 # treasure-about-JavaScript
+## Package Manager
+| Name  | Second Header |
+| ------------- | ------------- |
+| [NPM](https://www.npmjs.com/)  | Content Cell  |
+| [pnpm](https://pnpm.io/)  | Content Cell  |
+| [Yarn](https://yarnpkg.com/)  | Content Cell  |
+
+
 ## Client
 ### Framework
-### Web
+#### Web
 | Name  | Second Header |
 | ------------- | ------------- |
 | [React](https://react.dev/) | Content Cell  |
