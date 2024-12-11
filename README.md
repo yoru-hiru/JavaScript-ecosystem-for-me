@@ -1,4 +1,4 @@
-# treasure-about-JavaScript
+# JavaScript Toolbox
 ## Tool
 ### Package Manager
 <details>
