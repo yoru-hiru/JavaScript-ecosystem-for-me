@@ -1,19 +1,22 @@
 # treasure-about-JavaScript
 ## Tool
 ### Package Manager
+<details>
+<summary>Package Manager</summary>
+
 | Name  |  |
 | ------------- | ------------- |
 | [NPM](https://www.npmjs.com/)  |  |
 | [pnpm](https://pnpm.io/)  |   |
 | [Yarn](https://yarnpkg.com/)  |   |
 
+</details>
+
+
 ### Build Tool
 | Name  |  |
 | ------------- | ------------- |
 | [Vite](https://vite.dev/) |  |
-
-
- 
 
 ## Client
 ### Framework
