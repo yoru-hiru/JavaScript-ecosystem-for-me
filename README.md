@@ -1,16 +1,16 @@
 # treasure-about-JavaScript
 ## Tool
 ### Package Manager
-| Name  | Second Header |
+| Name  |  |
 | ------------- | ------------- |
-| [NPM](https://www.npmjs.com/)  | Content Cell  |
-| [pnpm](https://pnpm.io/)  | Content Cell  |
-| [Yarn](https://yarnpkg.com/)  | Content Cell  |
+| [NPM](https://www.npmjs.com/)  |  |
+| [pnpm](https://pnpm.io/)  |   |
+| [Yarn](https://yarnpkg.com/)  |   |
 
 ### Build Tool
-| Name  | Second Header |
+| Name  |  |
 | ------------- | ------------- |
-| [Vite](https://vite.dev/) | Content Cell  |
+| [Vite](https://vite.dev/) |  |
 
 
  
@@ -18,25 +18,25 @@
 ## Client
 ### Framework
 #### Web
-| Name  | Second Header |
+| Name  |  |
 | ------------- | ------------- |
-| [React](https://react.dev/) | Content Cell  |
-| [Vue](https://vuejs.org/)  | Content Cell  |
-| [Angular](https://angular.dev/)  | Content Cell  |
-| [Svelte](https://svelte.dev/)  | Content Cell  |
-| [Qwik](https://qwik.dev/)  | Content Cell  |
+| [React](https://react.dev/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
 
 #### Desktop
-| Name  | Second Header |
+| Name  |  |
 | ------------- | ------------- |
-| [Electron](https://www.electronjs.org/) | Content Cell  |
-| [Tauri](https://tauri.app/)  | Content Cell  |
-| [NW](https://nwjs.io/)  | Content Cell  |
+| [Electron](https://www.electronjs.org/) |   |
+| [Tauri](https://tauri.app/)  |   |
+| [NW](https://nwjs.io/)  |   |
 
 ## Server
 ### Runtime
-| Name  | Second Header |
+| Name  |  |
 | ------------- | ------------- |
-| [Node](https://nodejs.org/en)  | Content Cell  |
-| [Deno](https://deno.com/)  | Content Cell  |
-| [Bun](https://bun.sh/)  | Content Cell  |
+| [Node](https://nodejs.org/en)  |   |
+| [Deno](https://deno.com/)  |   |
+| [Bun](https://bun.sh/)  |  |
