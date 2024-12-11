@@ -1,4 +1,7 @@
 # JavaScript Ecosystem For Me
+```mermaid
+  info
+```
 <details>
 <summary>TOC</summary>
 
