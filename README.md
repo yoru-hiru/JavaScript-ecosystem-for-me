@@ -1,4 +1,12 @@
-# JavaScript Toolbox
+# JavaScript Ecosystem For Me
+## TOC
+1. architecture
+2. develop
+    1. programming
+        1. [client](/develop/programming/client.md)
+        2. [server](/develop/programming/server.md)
+3. Ops 
+
 ## Tool
 ### Package Manager
 <details>
@@ -17,29 +25,3 @@
 | Name  |  |
 | ------------- | ------------- |
 | [Vite](https://vite.dev/) |  |
-
-## Client
-### Framework
-#### Web
-| Name  |  |
-| ------------- | ------------- |
-| [React](https://react.dev/) |   |
-| [Vue](https://vuejs.org/)  |   |
-| [Angular](https://angular.dev/)  |   |
-| [Svelte](https://svelte.dev/)  |   |
-| [Qwik](https://qwik.dev/)  |   |
-
-#### Desktop
-| Name  |  |
-| ------------- | ------------- |
-| [Electron](https://www.electronjs.org/) |   |
-| [Tauri](https://tauri.app/)  |   |
-| [NW](https://nwjs.io/)  |   |
-
-## Server
-### Runtime
-| Name  |  |
-| ------------- | ------------- |
-| [Node](https://nodejs.org/en)  |   |
-| [Deno](https://deno.com/)  |   |
-| [Bun](https://bun.sh/)  |  |
