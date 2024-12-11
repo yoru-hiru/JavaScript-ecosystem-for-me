@@ -1,5 +1,5 @@
 # treasure-about-JavaScript
-## Language
+## Runtime
 | Name  | Second Header |
 | ------------- | ------------- |
 | [Node](https://nodejs.org/en)  | Content Cell  |
