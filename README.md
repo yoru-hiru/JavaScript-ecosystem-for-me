@@ -1,14 +1,4 @@
 # JavaScript Ecosystem For Me
-```mermaid
-  mindmap
-  root((JavaScript Ecosystem For Me ))
-    architecture
-      programming
-        <a href='/develop/programming/client.md'>client</a>
-        <a href='/develop/programming/server.md'>server</a>
-    develop
-    Ops
-```
 <details>
 <summary>TOC</summary>
 
