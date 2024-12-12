@@ -3,9 +3,12 @@
 ### Embedded
 #### IoT
 ### Client
+#### Browser extension
 #### CLI
 cli
 terminal
+shell
+
 #### Web
 <details>
 <summary>Template</summary>
@@ -52,6 +55,8 @@ terminal
 | [Angular](https://angular.dev/)  |   |
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
+
+cad
 
 | Game  |  |
 | ------------- | ------------- |
@@ -136,7 +141,7 @@ terminal
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
 
-
+rwd
 
 | Table  |  |
 | ------------- | ------------- |
@@ -213,6 +218,9 @@ terminal
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
 
+spinner
+menu
+
 | notify  |  |
 | ------------- | ------------- |
 | [D3](https://d3js.org/) |   |
@@ -260,6 +268,11 @@ terminal
 | [numeral](http://numeraljs.com/) |   |
 | [numbro](https://numbrojs.com/)  |   |
 
+string
+
+money
+
+text-processing
 
 | Font  |  |
 | ------------- | ------------- |
@@ -293,6 +306,8 @@ terminal
 | [Vue](https://vuejs.org/)  |   |
 | [Angular](https://angular.dev/)  |   |
 | [Svelte](https://svelte.dev/)  |   
+
+code-editor
 
 | playground |  |
 | ------------- | ------------- |
@@ -354,6 +369,8 @@ terminal
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
 
+qrcode
+
 | geometry  |  |
 | ------------- | ------------- |
 | [D3](https://d3js.org/) |   |
@@ -378,6 +395,8 @@ terminal
 | [Angular](https://angular.dev/)  |   |
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
+
+timeline
 
 | Audio  |  |
 | ------------- | ------------- |
@@ -516,11 +535,8 @@ geospatial
 
 | State  |  |
 | ------------- | ------------- |
-| [React](https://react.dev/) |   |
-| [Vue](https://vuejs.org/)  |   |
-| [Angular](https://angular.dev/)  |   |
-| [Svelte](https://svelte.dev/)  |   |
-| [Qwik](https://qwik.dev/)  |   |
+| [fluxible](https://github.com/yahoo/fluxible) |   |
+
 
 | State Machine  |  |
 | ------------- | ------------- |
@@ -539,7 +555,7 @@ geospatial
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
 
-
+resource load
 
 | Fetching  |  |
 | ------------- | ------------- |
@@ -613,7 +629,16 @@ geospatial
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
 
+DOM manipulation
 
+Async flow / Promises
+
+workflow automation
+
+gpu
+process management
+
+print
 
 | Worker thread |  |
 | ------------- | ------------- |
@@ -631,6 +656,7 @@ geospatial
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
 
+window-management
 
 | Ramdom  |  |
 | ------------- | ------------- |
@@ -640,6 +666,10 @@ geospatial
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
 
+
+screenshot
+
+diff
 
 | Auth  |  |
 | ------------- | ------------- |
@@ -706,6 +736,12 @@ geospatial
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
 
+pubsub
+
+Event sourcing
+
+sse
+
 | RPC  |  |
 | ------------- | ------------- |
 | [React](https://react.dev/) |   |
@@ -756,6 +792,8 @@ geospatial
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
 
+protobuf
+
 | OpenAPI  |  |
 | ------------- | ------------- |
 | [React](https://react.dev/) |   |
@@ -794,6 +832,12 @@ geospatial
 <details>
 <summary>Format</summary>
 
+archive
+
+CSV
+
+XML
+
 | HTML  |  |
 | ------------- | ------------- |
 | [React](https://react.dev/) |   |
@@ -827,6 +871,7 @@ geospatial
 | [Qwik](https://qwik.dev/)  |   |
 </details>
 
+#### PWA
 
 #### Mobile
 
@@ -838,3 +883,4 @@ geospatial
 | [NW](https://nwjs.io/)  |   |
 
 ### Metaverse
+vr

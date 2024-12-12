@@ -28,17 +28,28 @@
 - graph
     - [ngraph.path](https://github.com/anvaka/ngraph.path) Path finding
 - filesystem
+#### HTML Processor
+- https://unpoly.com/
+- https://asciidoctor.org/
+
+Templating 
+
 #### CSS Processor
+classname
 #### Type
 
 #### CSS in JS
 #### WASM
 ### AI
 #### ML
+#### neural network
 
 ## Tool
 ### Scaffolding - generator
 ### boilerplate
+https://html5boilerplate.com/
+
+### Git
 ### Monorepo
 ### IDE
 ### Package Manager
@@ -70,9 +81,14 @@
 ### config
 
 ### Doc
+styleguide
+doc
 
 ### publish package
+### Dependency analysis
 
 ### Learn
 #### Res
+- http://microjs.com/#
+
 #### Book
