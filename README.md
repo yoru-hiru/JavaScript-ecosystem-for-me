@@ -1,6 +1,6 @@
 # JavaScript Ecosystem For Me
 > [!CAUTION]
-> This project is UNDER CONSTRUCTION!
+> The project is under construction.
 
 
 <details>
