@@ -11,13 +11,24 @@
 </details>
 
 ## Language
+### Code Parser
+### Compiler
 ### Paradigm
-FP
-### Type
-### CSS in JS
+#### FP
+#### reactive
+#### visual
+### super
+### filesystem
+#### Type
+#### queue
+#### CSS in JS
+#### WASM
 ### AI
+#### ML
 
 ## Tool
+### Scaffolding - generator
+### boilerplate
 ### Package Manager
 <details>
 <summary>Package Manager</summary>
@@ -36,4 +47,8 @@ FP
 | ------------- | ------------- |
 | [Vite](https://vite.dev/) |  |
 
-css-in-js
+### bundler
+
+### Lint
+
+### Doc
