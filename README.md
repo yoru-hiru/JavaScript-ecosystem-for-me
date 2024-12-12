@@ -1,4 +1,8 @@
 # JavaScript Ecosystem For Me
+> [!CAUTION]
+> This project is UNDER CONSTRUCTION!
+
+
 <details>
 <summary>TOC</summary>
 
@@ -16,11 +20,17 @@
 ### Paradigm
 #### FP
 #### reactive
+#### DI
 #### visual
 ### super
-### filesystem
+#### data-structure
+- queue
+- graph
+    - [ngraph.path](https://github.com/anvaka/ngraph.path) Path finding
+- filesystem
+#### CSS Processor
 #### Type
-#### queue
+
 #### CSS in JS
 #### WASM
 ### AI
@@ -29,6 +39,8 @@
 ## Tool
 ### Scaffolding - generator
 ### boilerplate
+### Monorepo
+### IDE
 ### Package Manager
 <details>
 <summary>Package Manager</summary>
@@ -38,6 +50,8 @@
 | [NPM](https://www.npmjs.com/)  |  |
 | [pnpm](https://pnpm.io/)  |   |
 | [Yarn](https://yarnpkg.com/)  |   |
+
+- https://github.com/wclr/yalc
 
 </details>
 
@@ -49,6 +63,16 @@
 
 ### bundler
 
+### formatter
+
 ### Lint
 
+### config
+
 ### Doc
+
+### publish package
+
+### Learn
+#### Res
+#### Book

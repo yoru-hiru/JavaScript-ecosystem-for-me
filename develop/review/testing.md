@@ -1,7 +1,11 @@
+## Debug
+## Log
 ## testing
 ## Browser automation
 ## QA
-### access
+### compatibility
 ### performance
+### access
+
 #### performance
 #### caching

@@ -1,8 +1,11 @@
 # JavaScript Ecosystem For Me —— Frontend Programming
 ## Platform
 ### Embedded
+#### IoT
 ### Client
 #### CLI
+cli
+terminal
 #### Web
 <details>
 <summary>Template</summary>
@@ -14,7 +17,35 @@
 | [Angular](https://angular.dev/)  |   |
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
+
+| Blog  |  |
+| ------------- | ------------- |
+| [React](https://react.dev/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+| Ecommerce  |  |
+| ------------- | ------------- |
+| [React](https://react.dev/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
 | Dashboard  |  |
+| ------------- | ------------- |
+| [React](https://react.dev/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+
+
+
+| Email  |  |
 | ------------- | ------------- |
 | [React](https://react.dev/) |   |
 | [Vue](https://vuejs.org/)  |   |
@@ -88,6 +119,15 @@
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
 
+| vdom |  |
+| ------------- | ------------- |
+| [React](https://react.dev/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+
 | Layout  |  |
 | ------------- | ------------- |
 | [D3](https://d3js.org/) |   |
@@ -106,6 +146,15 @@
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
 
+| spreadsheet  |  |
+| ------------- | ------------- |
+| [D3](https://d3js.org/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+
 | Form  |  |
 | ------------- | ------------- |
 | [D3](https://d3js.org/) |   |
@@ -122,6 +171,74 @@
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
 
+| Presentation  |  |
+| ------------- | ------------- |
+| [D3](https://d3js.org/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+| Tree Exploer  |  |
+| ------------- | ------------- |
+| [D3](https://d3js.org/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+
+| Virtual List  |  |
+| ------------- | ------------- |
+| [D3](https://d3js.org/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+| modal  |  |
+| ------------- | ------------- |
+| [D3](https://d3js.org/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+
+| tooltip  |  |
+| ------------- | ------------- |
+| [D3](https://d3js.org/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+| notify  |  |
+| ------------- | ------------- |
+| [D3](https://d3js.org/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+
+
+| tour  |  |
+| ------------- | ------------- |
+| [D3](https://d3js.org/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+| Input Mask  |  |
+| ------------- | ------------- |
+| [D3](https://d3js.org/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
 | autocomplete  |  |
 | ------------- | ------------- |
 | [D3](https://d3js.org/) |   |
@@ -130,6 +247,46 @@
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
 
+| Bot  |  |
+| ------------- | ------------- |
+| [D3](https://d3js.org/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+| Number  |  |
+| ------------- | ------------- |
+| [numeral](http://numeraljs.com/) |   |
+| [numbro](https://numbrojs.com/)  |   |
+
+
+| Font  |  |
+| ------------- | ------------- |
+| [D3](https://d3js.org/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+
+| Emoji  |  |
+| ------------- | ------------- |
+| [D3](https://d3js.org/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+| Typography  |  |
+| ------------- | ------------- |
+| [D3](https://d3js.org/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+
 | Code |  |
 | ------------- | ------------- |
 | [D3](https://d3js.org/) |   |
@@ -137,7 +294,30 @@
 | [Angular](https://angular.dev/)  |   |
 | [Svelte](https://svelte.dev/)  |   
 
+| playground |  |
+| ------------- | ------------- |
+| [D3](https://d3js.org/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   
+
+| regexp  |  |
+| ------------- | ------------- |
+| [D3](https://d3js.org/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
 | Rich Text Editor  |  |
+| ------------- | ------------- |
+| [D3](https://d3js.org/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+| File Upload  |  |
 | ------------- | ------------- |
 | [D3](https://d3js.org/) |   |
 | [Vue](https://vuejs.org/)  |   |
@@ -173,6 +353,15 @@
 | [Angular](https://angular.dev/)  |   |
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
+
+| geometry  |  |
+| ------------- | ------------- |
+| [D3](https://d3js.org/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
 
 | Math  |  |
 | ------------- | ------------- |
@@ -238,6 +427,14 @@
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
 
+| physics  |  |
+| ------------- | ------------- |
+| [D3](https://d3js.org/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
 | 3d  |  |
 | ------------- | ------------- |
 | [D3](https://d3js.org/) |   |
@@ -253,6 +450,8 @@
 | [Angular](https://angular.dev/)  |   |
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
+
+geospatial
 
 | Diagram |  |
 | ------------- | ------------- |
@@ -295,7 +494,21 @@
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
 
+| keyboard  |  |
+| ------------- | ------------- |
+| [D3](https://d3js.org/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
 
+| touch  |  |
+| ------------- | ------------- |
+| [D3](https://d3js.org/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
 </details>
 
 <details>
@@ -309,7 +522,34 @@
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
 
+| State Machine  |  |
+| ------------- | ------------- |
+| [React](https://react.dev/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+
+| Browser Storage  |  |
+| ------------- | ------------- |
+| [React](https://react.dev/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+
+
 | Fetching  |  |
+| ------------- | ------------- |
+| [React](https://react.dev/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+| prefetch  |  |
 | ------------- | ------------- |
 | [React](https://react.dev/) |   |
 | [Vue](https://vuejs.org/)  |   |
@@ -319,6 +559,15 @@
 
 
 | search  |  |
+| ------------- | ------------- |
+| [React](https://react.dev/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+
+| scraping  |  |
 | ------------- | ------------- |
 | [React](https://react.dev/) |   |
 | [Vue](https://vuejs.org/)  |   |
@@ -364,6 +613,34 @@
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
 
+
+
+| Worker thread |  |
+| ------------- | ------------- |
+| [React](https://react.dev/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+| serviceworker  |  |
+| ------------- | ------------- |
+| [React](https://react.dev/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+
+| Ramdom  |  |
+| ------------- | ------------- |
+| [React](https://react.dev/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+
 | Auth  |  |
 | ------------- | ------------- |
 | [React](https://react.dev/) |   |
@@ -373,6 +650,22 @@
 | [Qwik](https://qwik.dev/)  |   |
 
 | Validation  |  |
+| ------------- | ------------- |
+| [React](https://react.dev/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+| Error  |  |
+| ------------- | ------------- |
+| [React](https://react.dev/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+| i18n  |  |
 | ------------- | ------------- |
 | [React](https://react.dev/) |   |
 | [Vue](https://vuejs.org/)  |   |
@@ -395,6 +688,15 @@
 
 <details>
 <summary>Network</summary>
+
+
+| Offline  |  |
+| ------------- | ------------- |
+| [React](https://react.dev/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
 
 | HTTP  |  |
 | ------------- | ------------- |
@@ -420,6 +722,16 @@
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
 
+| webrtc  |  |
+| ------------- | ------------- |
+| [React](https://react.dev/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+
+
 | Websocket  |  |
 | ------------- | ------------- |
 | [React](https://react.dev/) |   |
@@ -428,6 +740,13 @@
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
 
+| Web Worker  |  |
+| ------------- | ------------- |
+| [React](https://react.dev/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
 
 | GraphQL  |  |
 | ------------- | ------------- |
@@ -445,10 +764,43 @@
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
 
+| CRDT  |  |
+| ------------- | ------------- |
+| [React](https://react.dev/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+| CRON  |  |
+| ------------- | ------------- |
+| [React](https://react.dev/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
+
+| SDK  |  |
+| ------------- | ------------- |
+| [React](https://react.dev/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
+
 </details>
 
 <details>
 <summary>Format</summary>
+
+| HTML  |  |
+| ------------- | ------------- |
+| [React](https://react.dev/) |   |
+| [Vue](https://vuejs.org/)  |   |
+| [Angular](https://angular.dev/)  |   |
+| [Svelte](https://svelte.dev/)  |   |
+| [Qwik](https://qwik.dev/)  |   |
 
 | PDF  |  |
 | ------------- | ------------- |
