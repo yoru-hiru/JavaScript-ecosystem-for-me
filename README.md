@@ -5,8 +5,8 @@
 1. architecture
 2. develop
     1. programming
-        1. [client](/develop/programming/client.md)
-        2. [server](/develop/programming/server.md)
+        1. [frontend](/develop/programming/frontend.md)
+        2. [backend](/develop/programming/backend.md)
 3. Ops 
 </details>
 
