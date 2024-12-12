@@ -10,6 +10,12 @@
 3. Ops 
 </details>
 
+## Language
+### Paradigm
+FP
+### Type
+### CSS in JS
+### AI
 
 ## Tool
 ### Package Manager
@@ -29,3 +35,5 @@
 | Name  |  |
 | ------------- | ------------- |
 | [Vite](https://vite.dev/) |  |
+
+css-in-js
