@@ -37,6 +37,8 @@
 | ------------- | ------------- |
 | [Acorn](https://github.com/acornjs/acorn)  | |
 | [jsep](https://ericsmekens.github.io/jsep/)  | expression parser |
+| [Recast](https://github.com/benjamn/recast)  | syntax tree transformer, nondestructive pretty-printer, and automatic source map generator |
+
 
 | Building Toolkit  |
 | ------------- |
@@ -84,6 +86,7 @@
 ### reactive
 ### DI
 ### visual
+| [Amplication](https://amplication.com/) |  AI-Powered Backend Code Generation |
 
 ## Other Language
 #### HTML Processor
