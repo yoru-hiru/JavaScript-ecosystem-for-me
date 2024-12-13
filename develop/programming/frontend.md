@@ -29,6 +29,8 @@ shell
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
 
+CMS
+
 | Ecommerce  |  |
 | ------------- | ------------- |
 | [React](https://react.dev/) |   |

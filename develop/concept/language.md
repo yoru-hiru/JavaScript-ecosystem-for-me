@@ -61,14 +61,23 @@
 | [re-frame](https://github.com/day8/re-frame/) | |
 | [scala-js](https://www.scala-js.org/) | Scala |
 
-| Base JS Language  | 
-| ------------- | 
-| [Civet](https://civet.dev/)  | 
+| JS Based Language  | |
+| ------------- | ------------- | 
+| [Civet](https://civet.dev/)  | TypeScript superset that favors more types and less typing |
 | [ReScript](https://rescript-lang.org/)|
 | [coffeescript](https://coffeescript.org/) |
 
-| WASM  | 
-| ------------- | 
+| WASM  | |
+| ------------- | ------------- | 
+| [Nova](https://trynova.dev/)  | JavaScript (ECMAScript) and WebAssembly engine |
+| [Javy](https://github.com/bytecodealliance/javy)| JS to WebAssembly toolchain |
+| [Jawsm](https://github.com/drogus/jawsm) | JS to WASM compiler |
+| [AssemblyScript](https://www.assemblyscript.org/) | TS-like language for WebAssembly |
+| [WebVM](https://webvm.io/) | Linux virtual machine that runs in browser |
+| [Pyodide](https://pyodide.org/en/stable/) | Python distribution for the browser and Node.js based on WebAssembly |
+
+
+
 
 ## Paradigm
 ### FP
