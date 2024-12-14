@@ -2,10 +2,7 @@
 > [!CAUTION]
 > The project is under construction.
 
-
-<details>
-<summary>TOC</summary>
-
+TOC：
 1. Architecture
     1. Pattern
     2. Engineering
@@ -22,9 +19,6 @@
         1. [Testing](/develop/QA/testing.md)
         2. 
 3. Ops 
-</details>
-
-
 
 ## Resource
 ### Tool
