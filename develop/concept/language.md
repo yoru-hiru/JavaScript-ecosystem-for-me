@@ -3,6 +3,7 @@
 #### Frontend
 | Embedded  |  |
 | ------------- | ------------- |
+| [Boa](https://github.com/boa-dev/boa)  |  experimental Javascript engine | 
 | [Kaluma](https://kalumajs.org/)  | for RP2040 (Raspberry Pi Pico)  |
 | [Quick](https://bellard.org/quickjs/) | |
 | [Txiki](https://github.com/saghul/txiki.js) |  |
@@ -68,6 +69,8 @@
 | [Civet](https://civet.dev/)  | TypeScript superset that favors more types and less typing |
 | [ReScript](https://rescript-lang.org/)|
 | [coffeescript](https://coffeescript.org/) |
+| [Elm](https://elm-lang.org/) | functional language for reliable webapps |
+
 
 | WASM  | |
 | ------------- | ------------- | 
@@ -83,23 +86,159 @@
 
 ## Paradigm
 ### FP
+| FP | |
+| ------------- | ------------- | 
+| [Purify](https://gigobyte.github.io/purify/) | for TS | 
+| [Rubico](https://rubico.land/) | a/synchronous functional programming | 
+| [FxTS](https://fxts.dev/) | for JS/TS | 
+| [Ramda](https://ramdajs.com/) | | 
+| [Rambda](https://selfrefactor.github.io/rambda/) | Faster and smaller alternative to Ramda | 
+| [fp-ts](https://gcanti.github.io/fp-ts/ ) | for TS | 
+| [Patica](https://github.com/rametta/pratica ) || 
+| [Bacon](https://baconjs.github.io/) |  | 
+
+
+| Learning Resource | |
+| ------------- | ------------- | 
+| [mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)  |  |
+| [functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) |  | 
+
+
 ### reactive
+|  | |
+| ------------- | ------------- | 
+| [Rx](https://rxjs.dev/)  |  |
+| [Cellx](https://github.com/Riim/cellx)  |  |
+| [Bacon](https://baconjs.github.io/) |  | 
+
 ### DI
+|  | |
+| ------------- | ------------- | 
+| [Inversify](https://inversify.io/)  | IoC container
+for JavaScript & Node.js apps |
+| [Obsidian](https://wix-incubator.github.io/obsidian/)  | framework for React and React Native applications |
+| [Awilix](https://github.com/jeffijoe/awilix) | IoC container for Node | 
+| [TypeDI](https://docs.typestack.community/typedi/develop/01-getting-started) | for TS/JS | 
+| [Dioma](https://github.com/zheksoon/dioma) | dependency injection container for TS/JS | 
+| [Tsyringe](https://github.com/microsoft/tsyringe) | dependency injection container for TS/JS | 
+
+
 ### visual
+|  | |
+| ------------- | ------------- | 
 | [Amplication](https://amplication.com/) |  AI-Powered Backend Code Generation |
+| [Flyde](https://www.flyde.dev/) |  |
+| [OpenChakra](https://openchakra.app/) | visual editor and code generator for React using Chakra UI |
+| [Builder](https://www.builder.io/) | design-to-code, visual editing, and enterprise CMS |
+| [Plasmic](https://www.plasmic.app/) |  |
+| [WebStudio](https://webstudio.is/) |  |
+
+## Element
+### Syntax
+| Pattern Match | |
+| ------------- | ------------- | 
+| [match-iz](https://github.com/shuckster/match-iz)  |  |
+
 
 ## Other Language
+### HTML
+#### Template Engine
+| Template Engine | |
+| ------------- | ------------- | 
+| [Vento](https://vento.js.org/)  | Deno |
+| [Edge](https://edgejs.dev/docs/introduction)  | Node |
+| [Handlebars](https://handlebarsjs.com/)  |  |
+| [Eta](https://eta.js.org/)  | embedded template engine.Node, Deno, browser |
+| [Tempura](https://github.com/lukeed/tempura)  |  |
+| [Squirrelly](https://squirrelly.js.org/)  |  |
+| [Pug](https://pugjs.org/api/getting-started.html)  | Node |
+
 #### HTML Processor
-- https://unpoly.com/
-- https://asciidoctor.org/
+| HTML Processor Language | |
+| ------------- | ------------- | 
+| [Unpoly](https://unpoly.com/)  |  |  |
 
-Templating 
+#### Other Marking Language
+| Other Marking Language | |
+| ------------- | ------------- | 
+| [AsciiDoctor](https://asciidoctor.org/)  |  |  |
 
-#### CSS Processor
-classname
-#### Type
-
+### CSS 
 #### CSS in JS
+| CSS in JS | |
+| ------------- | ------------- | 
+| [Unistyles](https://www.unistyl.es/) | Level up your React Native StyleSheet   |
+| [Stylex](https://stylexjs.com/) | styling system  |
+| [Uno](https://unocss.dev/) | CSS engine  |
+| [Master](https://css.master.co/) | Virtual CSS language  |
+| [restyle](https://www.restyle.dev/) | for React  |
+| [Twind](https://twind.style/) |  tailwind-in-js  |
+| [Compiledcssin](https://compiledcssinjs.com/) |  React  |
+| [Tokenami](https://github.com/tokenami/tokenami) |  for design system |
+| [Panda](https://panda-css.com/) |  |
+| [TSS](https://www.tss-react.dev/) | CSS-in-TypeScript |
+| [Emotion](https://emotion.sh/docs/introduction) | |
+| [CSS Hooks](https://css-hooks.com/) | |
+| [Griffel](https://griffel.js.org/) | |
+| [vanilla-extract](https://vanilla-extract.style/) | for TS |
+| [WYW in JS](https://wyw-in-js.dev/) |      |
+| [Macaron](https://macaron.js.org/) |      |
+| [Goober](https://goober.rocks/) |      |
+| [Dripsy](https://www.dripsy.xyz/) |  Unstyled, responsive UI primitives for React Native + Web.    |
+| [Styled Components](https://styled-components.com/) |      |
+| [Styled Jsx](https://github.com/vercel/styled-jsx) |      |
+| [Xstyled](https://xstyled.dev/) |      |
+| [Linaria](https://linaria.dev/) |      |
+| [Stylify](https://stylifycss.com/) |      |
+| [css modules](https://github.com/css-modules/css-modules) |      |
+| [Polished](https://polished.js.org/) |      |
+| [Stitches](https://stitches.dev/) |      |
+
+#### Processor
+| Processor | |
+| ------------- | ------------- | 
+| [Stylable](https://stylable.io/) |    |
+| [PostCSS](https://postcss.org/) |   transforming CSS   | 
+| [Stylus](https://stylus-lang.com/) |   Node   | 
+| [Less](https://lesscss.org/) |      | 
+| [Lightning](https://lightningcss.dev/) |  parser, transformer, bundler, and minifier    | 
+| [Purge](https://purgecss.com/) | remove unused CSS    | 
+| [Stylis](https://stylis.js.org/) | | 
+| [twin.macro](https://github.com/ben-rogerson/twin.macro) |  Tailwind with the flexibility of css-in-js | 
+
+
+#### Toolkit
+| Toolkit | |
+| ------------- | ------------- | 
+| [Fomantic](https://fomantic-ui.com/) |    |
+| [Tailwind](https://tailwindcss.com/) |    |
+| [Pure](https://pure-css.github.io/) |    |
+| [Open Props](https://open-props.style/) |  Supercharged CSS variables  |
+| [Bulma](https://bulma.io/) | CSS Framework  |
+| [Semantic](https://semantic-ui.com/) | UI component framework|
+| [Chota](https://jenil.github.io/chota/) |  CSS Framework|
+| [picnic](https://picnicss.com/ ) | CSS library |
+| [Foundation](https://get.foundation/)|  responsive front-end f ramework  |
+| [Halfmoon](https://www.gethalfmoon.com/)|  Bootstrap replacement |
+| [Pico](https://picocss.com/) |  CSS Framework |
+| [Tachyons](https://tachyons.io/)|  |
+| [UIkit](https://getuikit.com/)|  |
+| [Cirrus](https://cirrus-ui.com/) | SCSS framework designed for rapid prototyping |
+
+
+| classname | |
+| ------------- | ------------- | 
+ [classnames](https://github.com/JedWatson/classnames) | |
+ [clsx](https://github.com/lukeed/clsx) | |
+
+#### Type
+| TypeScript Lib | |
+| ------------- | ------------- | 
+| [Effect](https://effect.website/) | help developers easily create complex, synchronous, and asynchronous programs | 
+| [hkt-toolbelt](https://github.com/poteat/hkt-toolbelt) | Functional and composable type utilities |
+| [ts-pattern](https://github.com/gvergnaud/ts-pattern) | Pattern Matching library |
+
+
 
 ### AI
 #### ML

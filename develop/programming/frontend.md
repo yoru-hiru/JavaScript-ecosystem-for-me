@@ -85,6 +85,8 @@ cad
 | [Angular](https://angular.dev/)  |   |
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
+| [Turbo](https://turbo.hotwired.dev/handbook/introduction)  |   |
+
 
 | Design System  |  |
 | ------------- | ------------- |
@@ -169,6 +171,22 @@ rwd
 | [Angular](https://angular.dev/)  |   |
 | [Svelte](https://svelte.dev/)  |   |
 | [Qwik](https://qwik.dev/)  |   |
+
+
+| Visual Editing  |  |
+| ------------- | ------------- |
+| [Paperclip](https://github.com/paperclip-ui/paperclip) | UI builder for styled components and design systems  |
+
+
+
+
+| Node Editor  |  |
+| ------------- | ------------- |
+| [Rete](https://retejs.org/) | creating processing-oriented node-based editors.TypeScript-first  |
+| [Flume](https://flume.dev/) | node editor and runtime engine  |
+
+
+
 
 | Silder  |  |
 | ------------- | ------------- |
@@ -625,11 +643,10 @@ resource load
 
 | Util  |  |
 | ------------- | ------------- |
-| [React](https://react.dev/) |   |
-| [Vue](https://vuejs.org/)  |   |
-| [Angular](https://angular.dev/)  |   |
-| [Svelte](https://svelte.dev/)  |   |
-| [Qwik](https://qwik.dev/)  |   |
+| []() |   |
+
+
+https://github.com/hemanth/functional-programming-jargon
 
 DOM manipulation
 
