@@ -56,6 +56,7 @@
 | [swc](https://swc.rs/)  |  |
 | [Sucrase](https://sucrase.io/) | |
 | [Babel](https://babel.dev/) |
+| [Porffor](https://porffor.dev/) | |
 
 | Other languages to JS |    | 
 | ------------- | ------------- | 
@@ -104,18 +105,17 @@
 | [functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) |  | 
 
 
-### reactive
-|  | |
+### Reactive
+| Reactive | |
 | ------------- | ------------- | 
 | [Rx](https://rxjs.dev/)  |  |
 | [Cellx](https://github.com/Riim/cellx)  |  |
 | [Bacon](https://baconjs.github.io/) |  | 
 
 ### DI
-|  | |
+| DI | |
 | ------------- | ------------- | 
-| [Inversify](https://inversify.io/)  | IoC container
-for JavaScript & Node.js apps |
+| [Inversify](https://inversify.io/)  | IoC container for JavaScript & Node.js apps |
 | [Obsidian](https://wix-incubator.github.io/obsidian/)  | framework for React and React Native applications |
 | [Awilix](https://github.com/jeffijoe/awilix) | IoC container for Node | 
 | [TypeDI](https://docs.typestack.community/typedi/develop/01-getting-started) | for TS/JS | 
@@ -123,8 +123,8 @@ for JavaScript & Node.js apps |
 | [Tsyringe](https://github.com/microsoft/tsyringe) | dependency injection container for TS/JS | 
 
 
-### visual
-|  | |
+### Visual
+| Visual | |
 | ------------- | ------------- | 
 | [Amplication](https://amplication.com/) |  AI-Powered Backend Code Generation |
 | [Flyde](https://www.flyde.dev/) |  |
